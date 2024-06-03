@@ -1,0 +1,30 @@
+.bannerContainer {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 161vh;
+    height: 60vh;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+
+.carousel .slide img {
+    width: 161vh;
+    height: 60vh;
+  }
+
+.slide{
+    background-color: blue;
+}
+.carousel{
+    border-radius: 10px;
+}
+
+.carousel .legend {
+    padding: 10px;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    font-size: 1em;
+}
